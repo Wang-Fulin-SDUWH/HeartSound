@@ -1,6 +1,6 @@
 # README
 
-改进前499*39输入模型文件夹中：（如要调试，请务必先运行getAllData_2s.py）
+改进后199*39输入模型文件夹中：（如要调试，请务必先运行getAllData_2s.py）
 
 Augmentation.py中引入几个数据增强函数
 
